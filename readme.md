@@ -2,10 +2,11 @@
 
 ## To use this text slider
 
-Install this code in your theme's functions.php or as a plugin
-Go to the new "Sentence Slider" menu in your WordPress admin
-Add your sentences
-Use the shortcode [sentence_slider] anywhere you want to display the slider
+This is a Wordpress plugin installed via the normal WP plugins install page.
+You may also copy the PHP to your theme's functions.php. If you do so, you're on your own.
+Go to the new "Sentence Slider" menu in your WordPress admin.
+Add your sentences.
+Use the shortcode [sentence_slider] anywhere you want to display the slider.
 
 ## Features
 
