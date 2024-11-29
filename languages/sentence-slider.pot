@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Sentence Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-29 10:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: sentence-slider.php:98
+msgid "Slider Sentences"
+msgstr ""
+
+#: sentence-slider.php:106
+msgid "Sentences"
+msgstr ""
+
+#: sentence-slider.php:117
+msgid "Add sentences to display in the slider. Each sentence will be shown one at a time."
+msgstr ""
+
+#: sentence-slider.php:139
+msgid "Enter a sentence"
+msgstr ""
+
+#: sentence-slider.php:146
+msgid "Active"
+msgstr ""
+
+#: sentence-slider.php:149
+msgid "Remove"
+msgstr ""
+
+#: sentence-slider.php:156
+msgid "Add Another Sentence"
+msgstr ""
+
+#: sentence-slider.php:173
+msgid "Animation Style"
+msgstr ""
+
+#: sentence-slider.php:182
+msgid "Fade"
+msgstr ""
+
+#: sentence-slider.php:183
+msgid "Slide from Right"
+msgstr ""
+
+#: sentence-slider.php:184
+msgid "Slide from Bottom"
+msgstr ""
+
+#: sentence-slider.php:185
+msgid "Zoom In"
+msgstr ""
+
+#: sentence-slider.php:186
+msgid "Spin"
+msgstr ""
+
+#: sentence-slider.php:187
+msgid "Flip"
+msgstr ""
+
+#: sentence-slider.php:188
+msgid "Bounce"
+msgstr ""
+
+#: sentence-slider.php:189
+msgid "Slide and Rotate"
+msgstr ""
+
+#: sentence-slider.php:200
+msgid "Slide Duration (seconds)"
+msgstr ""
+
+#: sentence-slider.php:245
+msgid "Sentence"
+msgstr ""
+
+#: sentence-slider.php:246
+msgid "Status"
+msgstr ""
+
+#: sentence-slider.php:247
+msgid "Actions"
+msgstr ""
+
+#: sentence-slider.php:282
+msgid "Sentence Slider Settings"
+msgstr ""

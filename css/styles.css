@@ -1,0 +1,133 @@
+/* Base styles */
+.sentence-slider {
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.slider-sentence {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+  line-height: 1.4;
+}
+
+/* Fade (default) */
+.animation-fade .slider-sentence {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+.animation-fade .slider-sentence.active {
+  opacity: 1;
+}
+
+/* Slide from right */
+.animation-slide-right .slider-sentence {
+  transform: translateX(100%);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-slide-right .slider-sentence.active {
+  transform: translateX(0);
+  opacity: 1;
+}
+
+/* Slide from bottom */
+.animation-slide-bottom .slider-sentence {
+  transform: translateY(100%);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-slide-bottom .slider-sentence.active {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+/* Zoom in */
+.animation-zoom .slider-sentence {
+  transform: scale(0.5);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-zoom .slider-sentence.active {
+  transform: scale(1);
+  opacity: 1;
+}
+
+/* Spin */
+.animation-spin .slider-sentence {
+  transform: rotate(180deg);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-spin .slider-sentence.active {
+  transform: rotate(0);
+  opacity: 1;
+}
+
+/* Flip */
+.animation-flip .slider-sentence {
+  transform: perspective(400px) rotateX(90deg);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-flip .slider-sentence.active {
+  transform: perspective(400px) rotateX(0);
+  opacity: 1;
+}
+
+/* Bounce */
+.animation-bounce .slider-sentence {
+  transform: scale(1.2);
+  opacity: 0;
+  transition: transform 0.5s cubic-bezier(0.68, -0.55, 0.265, 1.55),
+    opacity 0.5s ease-in-out;
+}
+.animation-bounce .slider-sentence.active {
+  transform: scale(1);
+  opacity: 1;
+}
+
+/* Slide and rotate */
+.animation-slide-rotate .slider-sentence {
+  transform: translateX(-100%) rotate(-45deg);
+  opacity: 0;
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
+.animation-slide-rotate .slider-sentence.active {
+  transform: translateX(0) rotate(0);
+  opacity: 1;
+}
+
+/* Admin styles */
+.sentence-field {
+  margin-bottom: 10px;
+}
+.sentence-field input {
+  margin-right: 10px;
+}
+
+.sentence-active-toggle {
+  display: inline-flex;
+  align-items: center;
+}
+
+.sentence-active-toggle input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#sentence-fields input[type="text"] {
+  max-width: 100%;
+}
+
+.wp-list-table-th {
+  padding: 8px !important;
+  width: 60%;
+}
+
+.wp-list-table td {
+  padding: 13px 8px;
+}
