@@ -7,6 +7,9 @@ Go to the new "Sentence Slider" menu in your WordPress admin.
 Add your sentences.
 Use the shortcode [sentence_slider] anywhere you want in your posts and pages to display the slider.
 
+![Screenshot](https://github.com/Tdude/sentence-slider/blob/main/Screenshot%202024-11-29%20at%2016.12.52.png "WP admin view")
+
+
 
 ## Features
 
