@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Sentence Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-29 10:00+0000\n"
+"PO-Revision-Date: 2024-11-29 10:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Slider Sentences"
+msgstr "Bildspelstexter"
+
+msgid "Sentences"
+msgstr "Meningar"
+
+msgid "Add sentences to display in the slider. Each sentence will be shown one at a time."
+msgstr "Lägg till meningar som ska visas i textspelet. Varje mening visas en i taget."
+
+msgid "Enter a sentence"
+msgstr "Skriv en mening"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Remove"
+msgstr "Ta bort"
+
+msgid "Add Another Sentence"
+msgstr "Lägg till en till mening"
+
+msgid "Animation Style"
+msgstr "Animationsstil"
+
+msgid "Fade"
+msgstr "Tona"
+
+msgid "Slide from Right"
+msgstr "Glid från höger"
+
+msgid "Slide from Bottom"
+msgstr "Glid från botten"
+
+msgid "Zoom In"
+msgstr "Zooma in"
+
+msgid "Spin"
+msgstr "Rotera"
+
+msgid "Flip"
+msgstr "Vänd"
+
+msgid "Bounce"
+msgstr "Studsa"
+
+msgid "Slide and Rotate"
+msgstr "Glid och rotera"
+
+msgid "Slide Duration (seconds)"
+msgstr "Visningstid (sekunder)"
+
+msgid "Sentence"
+msgstr "Mening"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Actions"
+msgstr "Åtgärder"
+
+msgid "Sentence Slider Settings"
+msgstr "Inställningar för meningsbildspel"
