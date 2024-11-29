@@ -137,7 +137,7 @@ add_action('admin_init', 'sentence_slider_settings_init');
 
 
 function sentence_slider_section_callback() {
-    echo '<p>' . esc_html__('Add sentences to display in the slider. Each sentence will be shown one at a time.', 'sentence-slider') . '</p>';
+    echo '<p>' . esc_html__('Add sentences to display in the slider. Each sentence will be shown one at a time. You can also choose which ones to show and set the overall animation duration. Display in posts/pages with the shortcode [sentence_slider].', 'sentence-slider') . '</p>';
 }
 
 
