@@ -25,3 +25,6 @@ Adjust the height of .sentence-slider if needed for longer sentences
 ## Why
 Maja was grumpy and couldn't understand why things "won't work" in Wordpress.
 This plugin was created in a couple of hours based on a dusty template for plugins I did long ago.
+
+## Challenges
+Language files, mo, po, no, på (as I misspelled it once), were not my forte. I spent half the next day trying to get a grasp. Got it, woohoo!
