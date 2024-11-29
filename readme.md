@@ -10,17 +10,17 @@ Use the shortcode [sentence_slider] anywhere you want to display the slider
 ## Features
 
 Simple admin interface to add/remove sentences
-Smooth fade transition between sentences
-Mobile-responsive
-5-second rotation interval
-Shortcode for easy placement
-Fully translatable
+Transition between sentences with a few styles interchangeable.
+Responsive
+5-second rotation interval as default but can be changed.
+Shortcode for placement anywhere in your WP content.
+Fully translatable. En and SE as default.
 
 ## To customize
 
-Adjust the timing by changing the 5000 in setInterval
-Modify the CSS in the style tag to change appearances
-Adjust the height of .sentence-slider if needed for longer sentences
+Adjust the timing in seconds.
+Modify the styles of slider, from swooshy styles to calmer.
+For longer sentences you may have to adjust the CSS height. You could also easily add a field to get a title/text kinda style.
 
 ## Why
 Maja was grumpy and couldn't understand why things "won't work" in Wordpress.
